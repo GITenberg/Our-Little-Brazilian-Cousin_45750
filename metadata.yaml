@@ -1,0 +1,32 @@
+_repo: Our-Little-Brazilian-Cousin_45750
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Meserac, Louis de
+    alias: De Meserac, Louis
+    gutenberg_agent_id: '43435'
+    url: http://www.gutenberg.org/2009/agents/43435
+covers:
+- cover_type: archival
+  image_path: 45750-h/images/ibackcover.jpg
+creator:
+  author:
+    agent_name: Nixon-Roulet, Mary F.
+    deathdate: 1930
+    gutenberg_agent_id: '3391'
+    url: http://www.gutenberg.org/2009/agents/3391
+description: ''
+gutenberg_issued: '2014-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'F2501'
+- !lcsh 'Children -- Brazil -- Juvenile literature'
+title: Our Little Brazilian Cousin
+url: http://www.gutenberg.org/ebooks/45750
