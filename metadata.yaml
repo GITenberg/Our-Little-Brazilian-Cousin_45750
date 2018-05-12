@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '3391'
     url: http://www.gutenberg.org/2009/agents/3391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45750#Our-Little-Brazilian-Cousin
 gutenberg_issued: '2014-05-25'
 gutenberg_type: Text
 identifiers:
